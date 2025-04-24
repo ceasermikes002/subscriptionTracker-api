@@ -176,12 +176,6 @@ The API implements centralized error handling:
 - Appropriate HTTP status codes
 - Error logging
 
-## 📈 Monitoring
-
-- Console logging for development
-- Error tracking
-- Request logging with Morgan
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -196,7 +190,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGithub](https://github.com/yourusername)
+- Chimaobi - Initial work - [YourGithub](https://github.com/ceasermikes002)
 
 ## 🙏 Acknowledgments
 
