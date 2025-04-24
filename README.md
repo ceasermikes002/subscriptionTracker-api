@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Chimaobi - Initial work - [YourGithub](https://github.com/ceasermikes002)
+- Chimaobi - Initial work - [Github](https://github.com/ceasermikes002)
 
 ## 🙏 Acknowledgments
 
